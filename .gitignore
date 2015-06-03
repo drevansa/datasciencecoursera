@@ -1,0 +1,7 @@
+# Classes of files that I don't want Git to automatically add or show as being untracked
+
+*.[oa]
+*~
+*.tmp
+*BKP
+.gitignore
